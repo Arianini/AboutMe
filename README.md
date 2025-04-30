@@ -20,7 +20,9 @@
   </p>
 
   <!-- Coding GIF -->
-  <img src="./coding.gif" alt="coding illustration" width="300" />
+  <p>
+    <img src="./coding.gif" alt="coding illustration" width="300" />
+  </p>
 </div>
 
 ---
@@ -32,16 +34,16 @@
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
   <a href="https://discord.com/users/831799810704539658" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=discord"
       alt="Discord"
-      width="30"
-      height="30"
+      width="40"
+      height="40"
     />
   </a>
 </div>
@@ -74,17 +76,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Profile Summary
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=true&icon_color=79ff97"
-    alt="Arianini's GitHub Stats"
-    width="700"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianini&theme=dracula"
+    alt="Arianini's Profile Details"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=compact&theme=dracula&hide_border=true&icon_color=79ff97"
-    alt="Arianini's Top Languages"
-    width="350"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
+    alt="Arianini's Most Used Languages"
   />
 </div>
