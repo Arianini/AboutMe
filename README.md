@@ -91,10 +91,8 @@
            alt="Arianini's GitHub Stats" />
     </td>
     <td>
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&amp;layout=donut&amp;theme=dracula"
-           alt="Arianini's Top Languages" />
-    </td>
-  </tr>
-</table>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
+    alt="Arianini's Most Used Languages"
+  />
+</div>
