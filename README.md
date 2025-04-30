@@ -19,6 +19,10 @@
     />
   </p>
 
+<div align="center">
+  <img src="./coding.gif" alt="coding illustration" width="300" />
+</div>
+
   <!-- LinkedIn -->
   <p>
     <a href="https://www.linkedin.com/in/arianne-ranada" target="_blank">
@@ -74,9 +78,3 @@
 </div>
 
 ---
-
-## 🎥 Coding in Action
-
-<div align="center">
-  <img src="./coding.gif" alt="coding illustration" width="300" />
-</div>
