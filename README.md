@@ -24,7 +24,7 @@
 </div>
 
 ---
-
+<div align="left">
 ## 🔗 Connect with Me
   <!-- LinkedIn -->
   <p>
@@ -37,7 +37,7 @@
       />
     </a>
   </p>
-
+</div>
 ---
 
 ## 🚀 About Me
