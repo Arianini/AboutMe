@@ -81,18 +81,25 @@
 </div>
 
 ---
+---
 ## 📊 GitHub Stats & Top Languages
 
-<table>
-  <tr>
-    <td>
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api?username=arianini&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;rank_icon=github&amp;hide=prs,issues,contribs&amp;show=stars,commits,prs_merged,prs_merged_percentage"
-           alt="Arianini's GitHub Stats" />
-    </td>
-    <td>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
-    alt="Arianini's Most Used Languages"
-  />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=arianini&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=stars,commits,prs_merged,prs_merged_percentage"
+          alt="Arianini's GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
+          alt="Arianini's Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
