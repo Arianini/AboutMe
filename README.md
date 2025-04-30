@@ -86,15 +86,15 @@
 <table>
   <tr>
     <td>
-      <!-- Stats card with GitHub icon instead of the "C" rank -->
       <img align="center"
-           src="https://github-readme-stats.vercel.app/api?username=arianini&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=stars,commits,prs_merged,prs_merged_percentage"
+           src="https://github-readme-stats.vercel.app/api?username=arianini&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;rank_icon=github&amp;hide=prs,issues,contribs&amp;show=stars,commits,prs_merged,prs_merged_percentage"
            alt="Arianini's GitHub Stats" />
     </td>
     <td>
-      <!-- Donut‐style Top Languages chart -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
-    alt="Arianini's Top Languages"
-  />
-</div>
+      <img align="center"
+           src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&amp;layout=donut&amp;theme=dracula"
+           alt="Arianini's Top Languages" />
+    </td>
+  </tr>
+</table>
+
