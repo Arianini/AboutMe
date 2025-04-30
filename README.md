@@ -63,7 +63,10 @@
 ## 🛠️ Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go,ruby,html,r" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go,ruby,html,r"
+    alt="Languages"
+  />
 </div>
 
 ---
@@ -71,7 +74,10 @@
 ## 🧰 Software & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino,linux,vscode,git,github,kali,mysql,mongodb" alt="Software & Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino,linux,vscode,git,github,kali,mysql,mongodb"
+    alt="Software & Tools"
+  />
 </div>
 
 ---
@@ -80,11 +86,13 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianini&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianini&theme=dracula&border_radius=10"
     alt="Arianini's Profile Details"
+    width="48%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula&border_radius=10"
     alt="Arianini's Most Used Languages"
+    width="48%"
   />
 </div>
