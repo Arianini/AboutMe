@@ -60,18 +60,12 @@
 
 ---
 
-## 🛠️ Languages & GitHub Stats
+## 🛠️ Languages
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=false&icon_color=79ff97"
-    alt="Arianini's GitHub Stats"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianini&layout=compact&theme=dracula&hide_border=false&icon_color=79ff97"
-    alt="Arianini's Top Languages"
-    width="45%"
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go,ruby,html,r"
+    alt="Languages"
   />
 </div>
 
@@ -83,5 +77,22 @@
   <img
     src="https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino,linux,vscode,git,github,kali,mysql,mongodb"
     alt="Software & Tools"
+  />
+</div>
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=false&icon_color=79ff97&card_width=400"
+    alt="Arianini's GitHub Stats"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianini&theme=dracula&hide_border=false&icon_color=79ff97&langs_card_type=donut&card_width=400"
+    alt="Arianini's Top Languages"
+    width="400"
   />
 </div>
