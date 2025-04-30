@@ -3,7 +3,7 @@
   <img src="./banner.png" alt="banner" width="100%" />
 
   <!-- Title & Tagline -->
-  <h1>Hi there 👋, I’m Arianne Ranada</h1>
+  <h1>Hi there 👋</h1>
   <h3>Driven by Curiosity & Code</h3>
 
   <!-- Short Bio -->
