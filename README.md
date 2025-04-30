@@ -3,7 +3,7 @@
   <img src="./banner.png" alt="banner" width="100%" />
 
   <!-- Title & Tagline -->
-  <h1>Hi there 👋</h1>
+  <h1>Hi there 👋, I’m Arianne Ranada</h1>
   <h3>Driven by Curiosity & Code</h3>
 
   <!-- Short Bio -->
@@ -27,10 +27,10 @@
 
 ## 🔗 Connect with Me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/arianne-ranada" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
       width="30"
       height="30"
@@ -38,14 +38,15 @@
   </a>
   <a href="https://discord.com/users/831799810704539658" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      src="https://skillicons.dev/icons?i=discord"
       alt="Discord"
       width="30"
       height="30"
     />
   </a>
-  
-</p>
+</div>
+
+---
 
 ## 🚀 About Me
 - 🔭 I’m currently diving into **cybersecurity** topics and developing my thesis:  
@@ -77,13 +78,13 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&theme=radical"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=true&icon_color=79ff97"
+    alt="Arianini's GitHub Stats"
+    width="700"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=compact&theme=radical"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=compact&theme=dracula&hide_border=true&icon_color=79ff97"
+    alt="Arianini's Top Languages"
+    width="350"
   />
 </div>
-
----
