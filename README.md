@@ -36,6 +36,15 @@
       height="30"
     />
   </a>
+  <a href="https://discord.com/users/831799810704539658" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="Discord"
+      width="30"
+      height="30"
+    />
+  </a>
+  
 </p>
 
 ## 🚀 About Me
