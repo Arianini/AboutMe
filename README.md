@@ -60,12 +60,18 @@
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Languages & GitHub Stats
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go,ruby,html,r"
-    alt="Languages"
+    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=false&icon_color=79ff97"
+    alt="Arianini's GitHub Stats"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianini&layout=compact&theme=dracula&hide_border=false&icon_color=79ff97"
+    alt="Arianini's Top Languages"
+    width="45%"
   />
 </div>
 
@@ -77,22 +83,5 @@
   <img
     src="https://skillicons.dev/icons?i=ubuntu,raspberrypi,arduino,linux,vscode,git,github,kali,mysql,mongodb"
     alt="Software & Tools"
-  />
-</div>
-
----
-
-## 📊 Profile Summary
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianini&theme=dracula&border_radius=10"
-    alt="Arianini's Profile Details"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula&border_radius=10"
-    alt="Arianini's Most Used Languages"
-    width="48%"
   />
 </div>
