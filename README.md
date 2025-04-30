@@ -81,21 +81,23 @@
 </div>
 
 ---
+## 🔗 Connect with Me
 
-## 📊 GitHub Stats & Top Languages
-
-<table>
-  <tr>
-    <td>
-      <!-- Stats card with GitHub icon instead of the "C" rank -->
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api?username=arianini&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=stars,commits,prs_merged,prs_merged_percentage"
-           alt="Arianini's GitHub Stats" />
-    </td>
-    <td>
-      <!-- Donut‐style Top Languages chart -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
-    alt="Arianini's Top Languages"
-  />
+<div align="center">
+  <!-- LinkedIn in LinkedIn blue -->
+  <a href="https://www.linkedin.com/in/arianne-ranada" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <!-- Discord in Discord blurple -->
+  <a href="https://discord.com/users/831799810704539658" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
 </div>
+
+---
