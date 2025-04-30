@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  <img src="./your-header-image.png" alt="banner" width="100%" />
+  <img src="./banner.png" alt="banner" width="100%" />
 
   <!-- Title & Tagline -->
   <h1>Hi there 👋, I’m Arianne Ranada</h1>
