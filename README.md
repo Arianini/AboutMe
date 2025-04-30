@@ -81,8 +81,7 @@
 </div>
 
 ---
----
----
+
 ## 📊 GitHub Stats & Top Languages
 
 <div align="center">
@@ -90,24 +89,13 @@
     <tr>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=arianini\
-&show_icons=true\
-&count_private=true\
-&theme=dark\
-&hide_border=true\
-&rank_icon=github\
-&hide=prs,issues,contribs\
-&show=stars,commits,prs_merged,prs_merged_percentage"
+          src="https://github-readme-stats.vercel.app/api?username=arianini&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=stars,commits,prs_merged,prs_merged_percentage"
           alt="Arianini's GitHub Stats"
         />
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini\
-&layout=donut\
-&theme=dark\
-&hide_border=true\
-&langs_count=6"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=donut&theme=dark&hide_border=true&langs_count=6"
           alt="Arianini's Top Languages"
         />
       </td>
