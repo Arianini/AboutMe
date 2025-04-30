@@ -84,19 +84,36 @@
 
 ## 📊 GitHub Stats & Top Languages
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <!-- Stats card with GitHub icon instead of the "C" rank -->
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api?username=arianini&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=prs,issues,contribs&show=stars,commits,prs_merged,prs_merged_percentage"
-           alt="Arianini's GitHub Stats" />
+    <td align="center" width="50%">
+      <!-- Stats: 5 lines to match 5 legend items -->
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api
+?username=arianini
+&count_private=true
+&show_icons=true
+&theme=dracula
+&rank_icon=github
+&hide=prs,issues
+&show=stars,commits,prs_merged,prs_merged_percentage,contribs
+&hide_border=false"
+        alt="Arianini's GitHub Stats"
+      />
     </td>
-    <td>
-      <!-- Donut‐style Top Languages chart -->
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=donut&theme=midnight-purple"
-           alt="Arianini's Top Languages" />
+    <td align="center" width="50%">
+      <!-- Donut-style Top Languages (top 5 to match 5 stats lines) -->
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs
+?username=arianini
+&layout=donut
+&theme=dracula
+&hide_border=false
+&langs_count=5"
+        alt="Arianini's Top Languages"
+      />
     </td>
   </tr>
 </table>
