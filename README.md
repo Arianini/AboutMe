@@ -92,10 +92,8 @@
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=donut&theme=dracula&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
     alt="Arianini's Top Languages"
-    width="48%"
   />
 </div>
-
 
