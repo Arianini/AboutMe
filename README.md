@@ -86,13 +86,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arianini&show_icons=true&count_private=true&theme=dracula&hide_border=false&icon_color=79ff97"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianini&theme=dracula"
     alt="Arianini's GitHub Stats"
-    width="45%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arianini&layout=donut&theme=dracula&hide_border=false&icon_color=79ff97"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arianini&theme=dracula"
     alt="Arianini's Top Languages"
-    width="45%"
   />
 </div>
+
