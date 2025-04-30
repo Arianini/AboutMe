@@ -10,7 +10,7 @@
 <img align="right" width="300" src="./coding.gif" alt="coding illustration"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=arianini&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 - 🔭 I’m currently diving into **cybersecurity** topics and developing my thesis:  
