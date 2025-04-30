@@ -19,26 +19,24 @@
     />
   </p>
 
-<div align="center">
+  <!-- Coding GIF -->
   <img src="./coding.gif" alt="coding illustration" width="300" />
 </div>
 
 ---
-<div align="left">
+
 ## 🔗 Connect with Me
-  <!-- LinkedIn -->
-  <p>
-    <a href="https://www.linkedin.com/in/arianne-ranada" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="LinkedIn"
-        width="30"
-        height="30"
-      />
-    </a>
-  </p>
-</div>
----
+
+<p>
+  <a href="https://www.linkedin.com/in/arianne-ranada" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      width="30"
+      height="30"
+    />
+  </a>
+</p>
 
 ## 🚀 About Me
 - 🔭 I’m currently diving into **cybersecurity** topics and developing my thesis:  
