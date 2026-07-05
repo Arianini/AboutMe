@@ -51,8 +51,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently diving into **cybersecurity** topics and developing my thesis:  
-  _“Design and Implementation of WSN Routing and Data Protocol with Time-Synchronization over QUIC”_
+- 🔭 I’m currently diving into **cybersecurity** topics 
 - 🌱 I’m learning advanced **network security** techniques  
 - 💬 Ask me about **Wireless Sensor Networks**, **QUIC**, and **cyber defenses**  
 - 📫 How to reach me: **ranadaarianne@gmail.com**  
